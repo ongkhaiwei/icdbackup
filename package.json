@@ -1,0 +1,11 @@
+{
+    "name": "bot-icf",
+    "version": "1.0.0",
+    "description": "An IBM Cloud Function with",
+    "author": "Ong Khai Wei",
+    "license": "Apache",
+    "main": "index.js",
+    "dependencies": {
+        "restler": "^3.4.0"
+    }
+}
